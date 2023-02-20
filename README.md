@@ -1,4 +1,6 @@
 ## Tomado de: https://github.com/kylemanna/docker-openvpn/blob/master/docs/docker-compose.md
+## Fuente: https://github.com/pablokbs/peladonerd/blob/master/varios/6/README.md
+## Fuente: https://www.youtube.com/watch?v=Ulew2JHUHfE
 
 * Crea un archivo docker-compose.yaml
 
